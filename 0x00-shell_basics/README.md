@@ -1,1 +1,1 @@
-changes working directory to previous one
+lists all files incl. hidden files
