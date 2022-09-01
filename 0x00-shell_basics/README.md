@@ -1,1 +1,1 @@
-copies all HTML files from pwd to parent dir
+moves all files beginning with uppercase to dir /tmp/u
