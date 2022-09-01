@@ -1,1 +1,1 @@
-creates the directories in the current directory
+lists all files in the dir seperated by commas
