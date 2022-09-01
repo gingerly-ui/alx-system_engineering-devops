@@ -1,1 +1,1 @@
-displays cd contents in long format
+displays cd contents plus hidden files
