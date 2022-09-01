@@ -1,1 +1,1 @@
-display cd contents
+a script that creates a directory in a directory
