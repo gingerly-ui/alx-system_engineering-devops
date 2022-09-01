@@ -1,1 +1,1 @@
-lists all files in the dir seperated by commas
+creates magic file that can detect school data files
