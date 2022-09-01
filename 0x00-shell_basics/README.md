@@ -1,1 +1,1 @@
-creating a symbolic link
+copies all HTML files from pwd to parent dir
