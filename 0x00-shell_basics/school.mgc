@@ -1,2 +1,2 @@
 #!/bin/bash
-file -C -m filename
+0 string school file -C -m filename
