@@ -1,1 +1,1 @@
-working directory to home directory
+displays cd contents in long format
