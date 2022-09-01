@@ -1,1 +1,1 @@
-moves all files beginning with uppercase to dir /tmp/u
+deletes all files in the pwd that end with th character ~
