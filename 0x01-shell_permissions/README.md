@@ -1,1 +1,1 @@
-changes owner and group owner
+changes group ownership w sym link
