@@ -1,1 +1,1 @@
-sets the mode as same as olleh
+adds execute permissions to all subdirectories
