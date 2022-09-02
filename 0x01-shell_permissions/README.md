@@ -1,1 +1,1 @@
-prints username of current user
+prints all the groups the current user is a part of
