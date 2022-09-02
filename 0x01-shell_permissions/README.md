@@ -1,1 +1,1 @@
-adds execution permission to owner, group and other
+sets permisions to file hello
