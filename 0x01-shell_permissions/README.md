@@ -1,1 +1,1 @@
-adds execute permissions to all subdirectories
+creates a dir with permissions 751
