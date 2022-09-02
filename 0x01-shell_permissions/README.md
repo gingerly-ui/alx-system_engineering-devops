@@ -1,1 +1,1 @@
-changes group ownership w sym link
+changes owner of the file
