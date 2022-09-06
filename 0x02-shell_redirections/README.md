@@ -1,1 +1,1 @@
-counts dir
+displays 10 newest files
