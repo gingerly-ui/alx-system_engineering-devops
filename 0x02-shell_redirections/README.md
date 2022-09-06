@@ -1,1 +1,1 @@
-writes into a file
+deletes all regular files
