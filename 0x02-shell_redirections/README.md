@@ -1,1 +1,1 @@
-lines pattern "root"
+all the lines
