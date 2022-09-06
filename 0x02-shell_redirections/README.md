@@ -1,1 +1,1 @@
-reverses its input
+displays all users
