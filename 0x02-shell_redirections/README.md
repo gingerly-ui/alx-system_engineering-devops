@@ -1,1 +1,1 @@
-displays lines
+replaces characters
