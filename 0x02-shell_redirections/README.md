@@ -1,1 +1,1 @@
-takes a list of words
+displays lines
