@@ -1,1 +1,1 @@
-removes all letters
+reverses its input
