@@ -1,1 +1,1 @@
-displays 10 newest files
+takes a list of words
