@@ -1,1 +1,1 @@
-prints combos
+prints with 2 decimals
