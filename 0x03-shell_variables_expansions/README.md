@@ -1,1 +1,1 @@
-creates ne global var
+prints results
