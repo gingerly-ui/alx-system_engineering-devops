@@ -1,1 +1,1 @@
-adds action
+counts number of dir
