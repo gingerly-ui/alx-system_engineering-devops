@@ -1,1 +1,1 @@
-lists env
+lists all local var
