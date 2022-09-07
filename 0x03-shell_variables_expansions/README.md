@@ -1,1 +1,1 @@
-creates new local var
+creates ne global var
