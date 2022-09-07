@@ -1,1 +1,1 @@
-converts a number
+encodes and decodes text
