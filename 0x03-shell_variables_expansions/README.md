@@ -1,1 +1,1 @@
-prints with 2 decimals
+converts a number
