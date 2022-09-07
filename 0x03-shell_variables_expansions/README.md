@@ -1,1 +1,1 @@
-prints every other line after input
+adds 2 num stored in the env var
