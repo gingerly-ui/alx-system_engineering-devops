@@ -1,2 +1,2 @@
 #!/bin/bash
-finds all empty files
+find . -empty -printf "%f\n"
