@@ -1,1 +1,1 @@
-converts number
+prints combos
